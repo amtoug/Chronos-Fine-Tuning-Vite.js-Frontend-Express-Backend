@@ -1,0 +1,4 @@
+venv/
+FrontApp/node_modules/
+ExpressAPI/node_modules/
+node_modules/
